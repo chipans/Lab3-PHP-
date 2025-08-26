@@ -19,4 +19,4 @@ En este laboratorio aprenderás a:
 
 1. Crear un proyecto PHP básico.
 2. Definir clases y objetos.
-3. Practicar métodos y propiedades de las clases.
+3. Practicar métodos y propiedades de las clases.git 
